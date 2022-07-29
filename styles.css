@@ -1,0 +1,73 @@
+
+
+#profilepage {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 1000px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+#homepage {
+	background: #ddd;
+	margin: 1rem;
+	padding: 1rem;
+	max-width: 500px;
+	margin: 2rem auto;
+	font-family: "Open Sans", sans-serif;
+  }
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: center;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.profileimg {
+	max-width: 300px;
+	max-height: 100px;
+}
+
+.flex-container2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.button {
+	background-color: yellow;
+}
